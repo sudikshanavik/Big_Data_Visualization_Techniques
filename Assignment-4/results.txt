@@ -1,0 +1,7 @@
+Sampling % | Method | SNR | Reconstruction Time
+1 % | nearest | 33.81 dB | 2.65 s
+1 % | linear | 38.44 dB | 2.97 s
+3 % | nearest | 35.05 dB | 3.12 s
+3 % | linear | 39.76 dB | 15.29 s
+5 % | nearest | 35.82 dB | 3.34 s
+5 % | linear | 40.56 dB | 45.11 s
